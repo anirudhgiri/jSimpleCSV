@@ -1,3 +1,4 @@
+![jSimpleCSV](https://i.imgur.com/ZI2PxoV.png)
 # jSimpleCSV
 
 A simple Java library for reading from and writing to CSV files.
